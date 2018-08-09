@@ -1,4 +1,4 @@
-var animal = 'dog'
+leaenvar animal = 'dog'
 
 function myAnimal() {
   return animal
